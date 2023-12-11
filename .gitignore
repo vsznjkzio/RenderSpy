@@ -4,8 +4,6 @@
 
 *.cache
 *.sqlite
-/.vs/RenderSpy/v17/.suo
+/.vs
 *.wsuo
-/.vs/RenderSpy/v17/.suo
-/.vs/VSWorkspaceState.json
-/.vs/ProjectSettings.json
+
