@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A fully managed C# port of the MinHook hooking library for native functions")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.1+c26433c4a520707d36a2801594686f1e16fdda54")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinHook.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinHook.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.1.0")]

@@ -6,4 +6,9 @@
 *.sqlite
 /.vs
 *.wsuo
+/.git
+/RenderSpy/obj
+/RenderSpy/bin
+/MinHook.NET/bin
+/MinHook.NET/obj
 
